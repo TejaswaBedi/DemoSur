@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DemoSur/static/css/main.6be5e766.css",
+    "main.js": "/DemoSur/static/js/main.575e61d7.js",
+    "static/media/sathanas.png": "/DemoSur/static/media/sathanas.9e1db8aebd7580480d42.png",
+    "static/media/lucifer.png": "/DemoSur/static/media/lucifer.3ead2b40e167bdbd35be.png",
+    "static/media/home.png": "/DemoSur/static/media/home.62b20ec6db8fa0986f76.png",
+    "static/media/kuchisake.png": "/DemoSur/static/media/kuchisake.273fc9dab6c1b6424c69.png",
+    "static/media/belphegor.jpg": "/DemoSur/static/media/belphegor.c7a16ddc47aaa487225e.jpg",
+    "static/media/about.png": "/DemoSur/static/media/about.5ea6abbd2bb1e52f026c.png",
+    "static/media/mammon.jpg": "/DemoSur/static/media/mammon.12dcbb60c3019bde914c.jpg",
+    "static/media/beelzebub.jpg": "/DemoSur/static/media/beelzebub.d2c9c8634e4cc89a136e.jpg",
+    "index.html": "/DemoSur/index.html",
+    "main.6be5e766.css.map": "/DemoSur/static/css/main.6be5e766.css.map",
+    "main.575e61d7.js.map": "/DemoSur/static/js/main.575e61d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be5e766.css",
+    "static/js/main.575e61d7.js"
+  ]
+}
